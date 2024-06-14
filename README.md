@@ -74,7 +74,7 @@ pip list
 ## Locate project:
 
 ```
-cd sentiment_classification
+cd /sentiment_classification
 source venv/bin/activate
 pip install -r requirements.txt
 ```
